@@ -1,4 +1,4 @@
-# Notes-Webapp-
+# Notes-Webapp
 Notes Webapp made using HTML, Bootstrap &amp; simple Javascript.
 
 Its functionalities include Adding, Deleting & searching notes.
